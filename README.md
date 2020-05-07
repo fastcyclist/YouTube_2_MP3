@@ -8,11 +8,14 @@ As most small Python3 projects I work on, this is done with Jupyter Notebook on 
 
 ### Prerequisites
 
-Python3
+Python3 - This comes with Ubuntu
+
+Jupyter Notebook [Link] (https://jupyter.org/install)
 
 ```
-Give examples
+pip3 install notebook
 ```
+
 
 ### Installing
 
