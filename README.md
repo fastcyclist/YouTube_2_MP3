@@ -10,74 +10,26 @@ As most small Python3 projects I work on, this is done with Jupyter Notebook on 
 
 Python3 - This comes with Ubuntu
 
-Jupyter Notebook [Link] (https://jupyter.org/install)
-
+Jupyter Notebook [Link](https://jupyter.org/install)
 ```
 pip3 install notebook
 ```
 
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+youtube-dl [Link](http://ytdl-org.github.io/youtube-dl/download.html)
 ```
-Give the example
+pip3 install --upgrade youtube_dl
 ```
 
-And repeat
-
+ffmpeg [Link](https://ffmpeg.org/)
 ```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
+sudo apt install ffmpeg
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Benjamin Zaporzan](https://gist.github.com/benzap/90ff22790bc0a9c6fd2902e91da4baef) - youtube2mp3.py was from benzap's repo.
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -85,6 +37,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* [Benjamin Zaporzan](https://gist.github.com/benzap)
